@@ -1,0 +1,133 @@
+{
+  "personalInfo": {
+    "name": "Alla Latkovska",
+    "location": "Regina, SK",
+    "contact": {
+      "phone": "825-945-8950",
+      "email": "allalatkovska@gmail.com"
+    }
+  },
+  "professionalSummary": "Results-driven food service professional with current experience as a Key Holder at The Chopped Leaf and a proven track record in healthy food preparation. Demonstrated expertise in kitchen operations, food safety, and customer service excellence. Known for maintaining high standards of cleanliness and efficiency while ensuring exceptional guest experience in fast-paced environments.",
+  "qualifications": [
+    "Over 1 year of Canadian food service experience in reputable establishments",
+    "Current hands-on experience with The Chopped Leaf operations and procedures",
+    "Proven ability to maintain food safety standards and kitchen sanitation",
+    "Strong knowledge of healthy food preparation and portion control",
+    "Demonstrated excellence in customer service and team collaboration",
+    "Flexible availability including evenings and weekends"
+  ],
+  "skills": [
+    "Food preparation and assembly",
+    "Kitchen equipment operation and maintenance",
+    "POS system operation",
+    "Cash handling",
+    "Inventory management",
+    "Stock rotation",
+    "Safe food handling",
+    "Storage practices",
+    "Portion control",
+    "Recipe standardization",
+    "Team collaboration",
+    "Problem-solving",
+    "Multi-tasking",
+    "Time management",
+    "Attention to detail",
+    "Working under pressure",
+    "Clear communication"
+  ],
+  "workExperience": [
+    {
+      "position": "Key Holder",
+      "company": "The Chopped Leaf",
+      "location": "Calgary, Canada",
+      "period": {
+        "start": "Sep 2023",
+        "end": "Dec 2024"
+      },
+      "responsibilities": [
+        "Prepare and assemble fresh bowls, salads, and wraps according to company standards",
+        "Monitor and maintain salad bar and ingredient inventory",
+        "Process customer payments accurately using POS system",
+        "Maintain spotless work areas and kitchen equipment",
+        "Collaborate effectively with kitchen staff and team members",
+        "Follow portion control and presentation guidelines"
+      ]
+    },
+    {
+      "position": "Team Member",
+      "company": "Tim Hortons",
+      "location": "Cochrane, Canada",
+      "period": {
+        "start": "Nov 2022",
+        "end": "Apr 2023"
+      },
+      "responsibilities": [
+        "Prepared and served menu items following standardized recipes",
+        "Operated POS system and handled customer transactions accurately",
+        "Maintained cleanliness of work areas, counters, and dining areas",
+        "Collaborated with team members during peak hours",
+        "Ensured consistent product quality and customer satisfaction"
+      ]
+    },
+    {
+      "position": "Nurse",
+      "company": "City Hospital, Infectious Department",
+      "location": "Bar, Ukraine",
+      "period": {
+        "start": "Sep 2011",
+        "end": "Mar 2020"
+      },
+      "responsibilities": [
+        "Provided patient care and administered treatments",
+        "Maintained detailed records and followed strict sanitation protocols",
+        "Demonstrated strong attention to detail in a fast-paced environment"
+      ]
+    }
+  ],
+  "volunteering": [
+    {
+      "position": "Warehouse Worker",
+      "organization": "Firefighter Aid Ukraine",
+      "location": "Cochrane, AB",
+      "period": {
+        "start": "Feb 2023",
+        "end": "Feb 2023"
+      },
+      "responsibilities": [
+        "Assisted with warehouse operations and aid organization",
+        "Contributed to humanitarian support efforts",
+        "Demonstrated ability to work in team-oriented environment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vinnytsia Medical College",
+      "degree": "Nursing",
+      "period": {
+        "start": "2009",
+        "end": "2011"
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Alberta Food Safety Basics Certificate",
+      "date": "Sep 2023"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "upper intermediate"
+    },
+    {
+      "language": "Ukrainian",
+      "proficiency": "native"
+    }
+  ],
+  "interests": [
+    "Healthy cooking and nutrition",
+    "Reading"
+  ]
+}
